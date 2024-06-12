@@ -1,0 +1,3 @@
+<?php
+	require "access.php";
+?>
